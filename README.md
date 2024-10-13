@@ -18,7 +18,7 @@ Marcal is more than just a meme token; it represents a universal vision for a cr
 To join the Marcal community and start using your tokens, follow these steps:
 
 1. **Wallet Setup**: Create a digital wallet that supports Solana SPL Tokens (i.e. [Phantom App](https://phantom.app/)).
-2. **Purchase Marcal Tokens**: Visit [Raydium.io](https://raydium.io/swap/?inputMint=sol&outputMint=mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe) or other decentralized exchanges (DEX) which support Solana tokens to buy Marcal tokens. If needed, use mint address "mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe" to locate liquidity pools that to trade Marcal.
+2. **Purchase Marcal Tokens**: Visit [Raydium.io](https://raydium.io/swap/?inputMint=sol&outputMint=mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe) or other decentralized exchanges (DEX) which support Solana tokens to buy Marcal tokens. If needed, use mint address "mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe" to locate liquidity pools that trade Marcal.
 4. **Join the Community**: Engage with us on social media and participate in discussions to help shape the future of Marcal token.
 5. **Show your Support**: Visit [CoinMarketCap](https://coinmarketcap.com/dexscan/solana/GfJ13g3tGQYtQ3DTAZz8WCWERLkvQsdaAUz2cjbG98pk/) and add your "thumbs up" to see Marcal listed. 
 
