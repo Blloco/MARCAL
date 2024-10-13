@@ -8,7 +8,7 @@ Marcal is more than just a meme token; it represents a universal vision for a cr
 
 ## Key Features
 
-- **Political Meme Inspiration**: Rooted in Brazilian culture, Marcal celebrates Brazilian politics, using humor and creativity to engage and inspire users.
+- **Political Meme Inspiration**: Rooted in Brazilian culture, Marcal celebrates the wildness and peculiarities of Brazilian politics, using humor and creativity to engage and inspire users.
 - **Universal Appeal**: Designed with a universal aesthetic, Marcal aims to resonate with a diverse audience, promoting inclusivity and accessibility in the crypto space.
 - **Potential as a Universal Currency**: Beyond its meme origins, Marcal is poised to function as a viable cryptocurrency, offering a platform for transactions, community engagement, and value exchange.
 
