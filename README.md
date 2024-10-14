@@ -19,7 +19,7 @@ To join the Marcal community and start using your tokens, follow these steps:
 
 1. **Wallet Setup**: Create a digital wallet that supports Solana SPL Tokens (i.e. [Phantom App](https://phantom.app/)).
 2. **Purchase Marcal Tokens**: Visit [Raydium.io](https://raydium.io/swap/?inputMint=sol&outputMint=mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe) or other decentralized exchanges (DEX) that support Solana tokens to buy Marcal tokens. Connect your wallet and use the mint address "mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe" to locate liquidity pools trading Marcal.
-3. **Provide Liquidity**: Provide liquidity to the MARCAL/SOL pair through [Raydium.io](https://raydium.io/liquidity-pools/) or other DEXs. Use the mint address "mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe" to locate Marcal liquidity pools or to create your own liquidity pools. 
+3. **Provide Liquidity**: Add liquidity to the MARCAL/SOL pair through [Raydium.io](https://raydium.io/liquidity-pools/) or other DEXs. Use the mint address "mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe" to locate or to create your own liquidity pools. 
 4. **Join the Community**: Engage with us on social media and participate in discussions to help shape the future of the Marcal token.
 5. **Show Your Support**: Visit [CoinMarketCap](https://coinmarketcap.com/dexscan/solana/GfJ13g3tGQYtQ3DTAZz8WCWERLkvQsdaAUz2cjbG98pk/) and add your "thumbs up" to help see Marcal listed.
 
