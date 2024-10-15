@@ -3,11 +3,12 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #333; /* Darker grey background */
+    color: #fff; /* White font color */
 }
 
 header {
-    background: #333;
+    background: #222; /* Slightly darker header */
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -24,8 +25,12 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: #fff;
+    color: #66aaff; /* Lighter blue for hyperlinks */
     text-decoration: none;
+}
+
+header nav ul li a:hover {
+    color: #99ccff; /* Even lighter blue on hover */
 }
 
 main {
@@ -35,14 +40,14 @@ main {
 section {
     margin: 20px 0;
     padding: 20px;
-    background: #fff;
+    background: #444; /* Darker grey for section background */
     border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Slightly darker shadow */
 }
 
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #333;
+    background: #222; /* Darker footer */
     color: #fff;
 }
