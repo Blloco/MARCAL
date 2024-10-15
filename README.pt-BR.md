@@ -17,11 +17,11 @@ Marcal é mais do que apenas um token meme; ele representa uma visão universal 
 
 Para se juntar à comunidade Marcal e começar a usar seus tokens, siga estas etapas:
 
-1. **Configuração da Wallet**: Crie uma wallet digital que suporte Tokens SPL da Solana (ou seja, Phantom App).
-2. **Adquira de Tokens Marcal**: Visite Raydium.io ou outras exchanges descentralizadas (DEX) que suportem tokens Solana para comprar tokens Marcal. Conecte sua wallet e use o endereço do mint "mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe" para localizar pools de liquidez que negociam Marcal.
-3. **Forneça Liquidez**: Adicione liquidez ao par MARCAL/SOL através do Raydium.io ou outros DEXs. Use o endereço do mint "mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe" para localizar ou criar suas próprias pools de liquidez.
+1. **Configuração da Wallet**: Crie uma wallet digital que suporte Tokens SPL da Solana (ou seja, [Phantom App](https://phantom.app/).
+2. **Adquira de Tokens Marcal**: Visite [Raydium.io](https://raydium.io/swap/?inputMint=sol&outputMint=mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe) ou outras exchanges descentralizadas (DEX) que suportem tokens Solana para comprar tokens Marcal. Conecte sua wallet e use o endereço do mint "mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe" para localizar pools de liquidez que negociam Marcal.
+3. **Forneça Liquidez**: Adicione liquidez ao par MARCAL/SOL através do [Raydium.io](https://raydium.io/liquidity-pools/?tab=standard&token=mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe) ou outros DEXs. Use o endereço do mint "mntmBhYzT1rwFMzmnu9ugcZQYJKT3n5isdQWsqhVChe" para localizar ou criar suas próprias pools de liquidez.
 4. **Junte-se à Comunidade**: Engaje-se conosco nas redes sociais e participe das discussões para ajudar a moldar o futuro do token Marcal.
-5. **Mostre seu Apoio**: Visite CoinMarketCap e adicione seu "polegar para cima" para ajudar a ver o Marcal listado.
+5. **Mostre seu Apoio**: Visite [CoinMarketCap](https://coinmarketcap.com/dexscan/solana/GfJ13g3tGQYtQ3DTAZz8WCWERLkvQsdaAUz2cjbG98pk/) e adicione seu "polegar para cima" para ajudar a ver o Marcal listado.
 
 ## Comunidade e Suporte
 
