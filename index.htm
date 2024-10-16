@@ -3,7 +3,21 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Project</title>
+    
+    <title>Marcal Coin</title>
+    
+    <!-- Metadata for search engines -->
+    <meta name="description" content="Marcal Coin: A community-driven cryptocurrency that transcends borders and fosters a global digital asset community." />
+    <meta name="keywords" content="Marcal Coin, cryptocurrency, blockchain, community-driven, Solana, digital asset" />
+    <meta name="author" content="Your Name or Organization" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph Tags for social media -->
+    <meta property="og:title" content="Marcal Coin" />
+    <meta property="og:description" content="Join the Marcal community and explore a cryptocurrency that connects people globally." />
+    <meta property="og:image" content="URL to your image" /> <!-- Replace with actual URL of an image -->
+    <meta property="og:url" content="URL to your page" /> <!-- Replace with actual URL of the page -->
+
     <link rel="stylesheet" href="styles.css" />
     <style>
         /* Inline CSS for demonstration purposes */
@@ -89,6 +103,16 @@
                 });
             }
         }
+
+        // Check the user's language settings
+        document.addEventListener("DOMContentLoaded", function() {
+            const userLang = navigator.language || navigator.userLanguage; // Detect user's language
+            if (userLang.startsWith("pt")) { // Check if the language starts with "pt"
+                switchLanguage('pt'); // Switch to Portuguese
+            } else {
+                switchLanguage('en'); // Default to English
+            }
+        });
     </script>
 </head>
 <body onload="switchLanguage('en')">
@@ -105,16 +129,16 @@
             <ul>
                 <li><a href="#about" class="en">About</a><a href="#about" class="pt hidden">Sobre</a></li>
                 <li>
-                    <a href="#keyfeatures" class="en">Key Features</a
-                    ><a href="#keyfeatures" class="pt hidden">Características Principais</a>
+                    <a href="#keyfeatures" class="en">Key Features</a>
+                    <a href="#keyfeatures" class="pt hidden">Características Principais</a>
                 </li>
                 <li>
-                    <a href="#gettingstarted" class="en">Getting Started</a
-                    ><a href="#gettingstarted" class="pt hidden">Introdução</a>
+                    <a href="#gettingstarted" class="en">Getting Started</a>
+                    <a href="#gettingstarted" class="pt hidden">Introdução</a>
                 </li>        
                 <li>
-                    <a href="#socialnetworks" class="en">Social Networks</a
-                    ><a href="#socialnetworks" class="pt hidden">Redes Sociais</a>
+                    <a href="#socialnetworks" class="en">Social Networks</a>
+                    <a href="#socialnetworks" class="pt hidden">Redes Sociais</a>
                 </li>
             </ul>
         </nav>
@@ -150,7 +174,7 @@
                     creativity and engages users to participate in meaningful dialogue and expression.
                 </li>
                 <li>
-                    <strong>Universal Appeal:</strong> Marcal is designed to resonate with a diverse audience by promoting inclusivity and accessibility, while also positioning itself as a viable cryptocurrency beyond its meme origins, offering practical platforms for transactions, community engagement, and value exchange
+                    <strong>Universal Appeal:</strong> Marcal is designed to resonate with a diverse audience by promoting inclusivity and accessibility, while also positioning itself as a viable cryptocurrency beyond its meme origins, offering practical platforms for transactions, community engagement, and value exchange.
                 </li>
                 <li>
                     <strong>Cutting-Edge Technology:</strong> Marcal leverages the high-speed
