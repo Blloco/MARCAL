@@ -103,6 +103,16 @@
                 });
             }
         }
+
+        // Check the user's language settings
+        document.addEventListener("DOMContentLoaded", function() {
+            const userLang = navigator.language || navigator.userLanguage; // Detect user's language
+            if (userLang.startsWith("pt")) { // Check if the language starts with "pt"
+                switchLanguage('pt'); // Switch to Portuguese
+            } else {
+                switchLanguage('en'); // Default to English
+            }
+        });
     </script>
 </head>
 <body onload="switchLanguage('en')">
@@ -119,16 +129,16 @@
             <ul>
                 <li><a href="#about" class="en">About</a><a href="#about" class="pt hidden">Sobre</a></li>
                 <li>
-                    <a href="#keyfeatures" class="en">Key Features</a
-                    ><a href="#keyfeatures" class="pt hidden">Características Principais</a>
+                    <a href="#keyfeatures" class="en">Key Features</a>
+                    <a href="#keyfeatures" class="pt hidden">Características Principais</a>
                 </li>
                 <li>
-                    <a href="#gettingstarted" class="en">Getting Started</a
-                    ><a href="#gettingstarted" class="pt hidden">Introdução</a>
+                    <a href="#gettingstarted" class="en">Getting Started</a>
+                    <a href="#gettingstarted" class="pt hidden">Introdução</a>
                 </li>        
                 <li>
-                    <a href="#socialnetworks" class="en">Social Networks</a
-                    ><a href="#socialnetworks" class="pt hidden">Redes Sociais</a>
+                    <a href="#socialnetworks" class="en">Social Networks</a>
+                    <a href="#socialnetworks" class="pt hidden">Redes Sociais</a>
                 </li>
             </ul>
         </nav>
