@@ -12,6 +12,7 @@ header {
     color: #fff;
     padding: 1rem 0;
     text-align: center;
+    position: relative; /* Enable absolute positioning for child elements */
 }
 
 header nav ul {
@@ -31,6 +32,14 @@ header nav ul li a {
 
 header nav ul li a:hover {
     color: #99ccff; /* Even lighter blue on hover */
+}
+
+.small-logo {
+    position: absolute; /* Position it relative to the header */
+    left: 20px; /* Adjust to desired horizontal position */
+    bottom: 10px; /* Adjust to desired vertical position */
+    width: 50px; /* Set width as needed */
+    height: auto; /* Maintain aspect ratio */
 }
 
 main {
