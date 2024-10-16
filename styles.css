@@ -34,10 +34,20 @@ header nav ul li a:hover {
     color: #99ccff; /* Even lighter blue on hover */
 }
 
-.small-logo {
+/* Small logo positioned at the bottom left */
+.bottom-left-logo {
     position: absolute; /* Position it relative to the header */
     left: 20px; /* Adjust to desired horizontal position */
     bottom: 10px; /* Adjust to desired vertical position */
+    width: 50px; /* Set width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* New small logo positioned at the bottom right */
+.bottom-right-logo {
+    position: absolute; /* Position it relative to the header */
+    right: 20px; /* Align to the right */
+    bottom: 10px; /* Align with the bottom */
     width: 50px; /* Set width as needed */
     height: auto; /* Maintain aspect ratio */
 }
@@ -59,4 +69,18 @@ footer {
     padding: 10px 0;
     background: #222; /* Darker footer */
     color: #fff;
+}
+
+.language-selector button {
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.language-selector button img {
+    vertical-align: middle; /* Align the image vertically in the button */
+    margin-right: 5px; /* Add some space between the image and text */
 }
