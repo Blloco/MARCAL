@@ -1,4 +1,4 @@
-# Marcal Token: A Community-Driven Cryptocurrency on Solana
+# Marcal Token: A Community-Driven Cryptocurrency
 
 Welcome to the Marcal Token project! Designed initially as a political meme token, Marcal is a Solana blockchain token that aims to unite communities through the power of optimism and creativity in the evolving landscape of cryptocurrency.
 
