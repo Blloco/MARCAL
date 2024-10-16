@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -34,7 +35,8 @@ header nav ul li a:hover {
     color: #99ccff; /* Even lighter blue on hover */
 }
 
-.small-logo {
+/* Small logo positioned at the bottom left */
+.bottom-left-logo {
     position: absolute; /* Position it relative to the header */
     left: 20px; /* Adjust to desired horizontal position */
     bottom: 10px; /* Adjust to desired vertical position */
@@ -42,19 +44,11 @@ header nav ul li a:hover {
     height: auto; /* Maintain aspect ratio */
 }
 
+/* New small logo positioned at the bottom right */
 .bottom-right-logo {
     position: absolute; /* Position it relative to the header */
     right: 20px; /* Align to the right */
     bottom: 10px; /* Align with the bottom */
-    width: 50px; /* Set width as needed */
-    height: auto; /* Maintain aspect ratio */
-}
-
-/* Style for the bluecap.png image in the About section */
-.about-right-logo {
-    position: relative; /* Relative positioning within the section */
-    float: right; /* Align to the right side */
-    margin: 20px; /* Add margin to avoid overlapping content */
     width: 50px; /* Set width as needed */
     height: auto; /* Maintain aspect ratio */
 }
