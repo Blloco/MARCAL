@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -43,7 +44,7 @@ header nav ul li a:hover {
     height: auto; /* Maintain aspect ratio */
 }
 
-/* Small logo positioned at the bottom right */
+/* New small logo positioned at the bottom right */
 .bottom-right-logo {
     position: absolute; /* Position it relative to the header */
     right: 20px; /* Align to the right */
@@ -83,13 +84,4 @@ footer {
 .language-selector button img {
     vertical-align: middle; /* Align the image vertically in the button */
     margin-right: 5px; /* Add some space between the image and text */
-}
-
-/* Styles for the social network image */
-.social-network-image {
-    position: absolute; /* Position it relative to the section */
-    bottom: 10px; /* Align with the bottom of the section */
-    right: 20px; /* Align to the right */
-    width: 50px; /* Set width as needed */
-    height: auto; /* Maintain aspect ratio */
 }
