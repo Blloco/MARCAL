@@ -1,10 +1,9 @@
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #333; /* Darker grey background */
+    background-color: #333; /* Dark grey background */
     color: #fff; /* White font color */
 }
 
@@ -65,6 +64,31 @@ section {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Slightly darker shadow */
 }
 
+section h2 {
+    color: #66aaff; /* Lighter blue for section headers */
+}
+
+section p {
+    margin: 10px 0;
+}
+
+section ul {
+    margin: 10px 0;
+    padding: 0;
+    list-style: none;
+}
+
+section ul li {
+    background: #555; /* Darker background for list items */
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 3px;
+}
+
+section ul li strong {
+    color: #99ccff; /* Lighter blue for bold text */
+}
+
 footer {
     text-align: center;
     padding: 10px 0;
@@ -72,6 +96,7 @@ footer {
     color: #fff;
 }
 
+/* Language selector button styling */
 .language-selector button {
     background-color: #fff;
     color: #333;
@@ -84,4 +109,31 @@ footer {
 .language-selector button img {
     vertical-align: middle; /* Align the image vertically in the button */
     margin-right: 5px; /* Add some space between the image and text */
+}
+
+/* Bluecap image styling in the "About" section */
+#about .bluecap-right {
+    float: right;
+    margin-left: 20px;
+    width: 150px; /* Adjust the width of the image */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Responsive styling */
+@media (max-width: 768px) {
+    header nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .bottom-left-logo, .bottom-right-logo {
+        width: 40px; /* Reduce size for mobile */
+    }
+
+    #about .bluecap-right {
+        width: 120px; /* Reduce size for mobile */
+        float: none;
+        display: block;
+        margin: 0 auto 20px; /* Center the image on mobile */
+    }
 }
