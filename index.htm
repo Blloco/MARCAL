@@ -54,7 +54,20 @@
             width: 50px; /* Adjust the width of the small logo as needed */
             height: auto; /* Maintain aspect ratio */
         }
-
+        
+         /* Box for "New Crypto!" in the upper left corner */
+        .new-crypto-box {
+            position: absolute;
+            top: 20px;  /* Position at the top */
+            left: 20px; /* Align to the left */
+            background-color: #ff0000; /* Red background for visibility */
+            color: white;
+            padding: 10px;
+            font-weight: bold;
+            font-size: 14px;
+            border-radius: 5px; /* Slightly rounded corners */
+        }
+        
         nav ul {
             list-style-type: none;
             padding: 0;
@@ -127,6 +140,12 @@
 <body onload="switchLanguage('en')">
     <!-- Default to English on load -->
     <header>
+
+        <!-- New Crypto Box -->
+        <div class="new-crypto-box">
+            New crypto! / Nova criptomoeda
+        </div>
+        
         <img src="marcal.png" alt="Project Logo" class="logo" />
         <h1 class="en">Marcal: A Democratic Cryptocurrency</h1>
         <h1 class="pt hidden">Marcal: Uma Criptomoeda Democrática</h1>
